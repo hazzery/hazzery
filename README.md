@@ -1,7 +1,10 @@
-<h2 align="left">Hi 👋! My name is Harry and I'm a thrid year software engieering student, from the [University of Canterbury](https://canterbury.ac.nz)</h2>
+## Hey, I'm Harry
 
-I am hugely passionate about problem solving, creative thinking and collaborating in teams!
-I am experienced in the ways of Python, C, C++, and Java.
+I'm a thrid year student at the [University of Canterbury](https://canterbury.ac.nz), majoring in **software engineering**.
+
+I am passionate about robotics and embedded systems, with experience from VEX Educational Robotics Competition,
+Arduino, and computer engineering courses in university.
+I also am a strong beleiver in writing well documented and easily readable code.
 
 ###
 
@@ -24,5 +27,3 @@ I am experienced in the ways of Python, C, C++, and Java.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
-
-###
