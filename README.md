@@ -3,8 +3,10 @@
 I'm a thrid year student at the [University of Canterbury](https://canterbury.ac.nz), majoring in **software engineering**.
 
 I am passionate about robotics and embedded systems, with experience from VEX Educational Robotics Competition,
-Arduino, and computer engineering courses in university.
-I also am a strong beleiver in writing well documented and easily readable code.
+Arduino, and computer engineering courses in university. Most of the code you will find here is Python,
+I have been using Python quite extensively during university for my computer science courses.
+I am a strong beleiver in writing well documented and easily readable code. My top two pinned repositories,
+MessageCipher and socket-programming, both provide excellent examples of this.
 
 ###
 
