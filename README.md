@@ -2,8 +2,8 @@
 
 I recently completed my degree in Software Engineering at the [University of Canterbury](https://canterbury.ac.nz).
 
-I am passionate about robotics and embedded systems, with experience from VEX Educational Robotics Competition,
-Arduino, and computer engineering courses in university. Most of the code you will find here is Python,
+I am passionate about robotics and embedded systems, with experience from advanced computer engineering courses in
+university, VEX Educational Robotics Competition, and Arduino. Most of the code you will find here is Python,
 I used Python quite extensively during university for computer science courses.
 I am a strong beleiver in writing well documented and easily readable code. My top two pinned repositories,
 MessageCipher and socket-programming, both provide excellent examples of this.
