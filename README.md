@@ -1,6 +1,6 @@
 ## Hey, I'm Harry
 
-I like building type-safe code.
+I like building type-safe code. Most of my code is on [GitLab](https://gitlab.com/hazzery) now
 
 
 ### Languages I like
